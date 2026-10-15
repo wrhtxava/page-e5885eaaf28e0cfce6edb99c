@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-cb52ad2fb1.shangjiaedu.cn/sitemap.xml
